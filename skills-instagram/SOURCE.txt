@@ -1,0 +1,2 @@
+Instagram skills by Jake Schincariol (MIT), unchanged copy of
+https://github.com/Jakeschincariol/instagram-agent-skill at commit d03c56b (2026-09-13).
